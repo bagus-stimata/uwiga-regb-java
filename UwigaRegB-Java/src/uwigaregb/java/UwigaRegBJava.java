@@ -20,6 +20,10 @@ public class UwigaRegBJava {
         System.out.println("Hello Coba dari Netbeans");
         
         System.out.println("Tambahan yang kedua");
+        
+        
+        System.out.println("Tambahan yang ketiga");
+        
                 
     }
     
