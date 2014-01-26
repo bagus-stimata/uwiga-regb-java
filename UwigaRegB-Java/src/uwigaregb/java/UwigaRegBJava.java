@@ -18,6 +18,9 @@ public class UwigaRegBJava {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hello Coba dari Netbeans");
+        
+        System.out.println("Tambahan yang kedua");
+                
     }
     
 }
